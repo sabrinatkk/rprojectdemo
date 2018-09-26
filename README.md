@@ -1,1 +1,1 @@
-# rprojectdemo
+# R Project Demo - Lecture 7
